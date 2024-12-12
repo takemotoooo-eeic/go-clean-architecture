@@ -1,4 +1,4 @@
-module github.com/takemotooo-eeic/go-pkg
+module github.com/takemotoooo-eeic/go-pkg
 
 go 1.23.4
 
